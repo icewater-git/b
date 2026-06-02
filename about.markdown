@@ -1,18 +1,39 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+　　欢迎来到本站。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+　　我是兴行，一名祝由术学习者与实践者。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+　　建立这个网站的目的很简单，主要是记录和分享自己学习祝由术过程中的一些心得、体会以及实践经验。只希望能够安安静静地留下一些真实的学习记录，供自己回顾，也供有缘人参考。
 
+　　在学习祝由术的过程中，我越来越深刻地体会到一个道理：
 
-[jekyll-organization]: https://github.com/jekyll
+　　**重在行，而不在想。**
+
+　　很多时候，人们喜欢研究各种理论，喜欢分析各种方法，也喜欢不断寻找新的资料。但如果只是停留在思考层面，而没有真正去实践，那么再多的理论也难以产生实际的效果。
+
+　　对于祝由术而言，最重要的往往不是知道多少，而是是否能够脚踏实地地去练功、去实践、去体会。
+
+　　老实练功，老实治病；
+
+　　专心致志，一心不乱。
+
+　　只有通过长期的实践，才能真正理解其中的道理。
+
+　　如果总是怀疑，总是反复揣测，总是被各种杂念所牵引，那么不仅难以取得理想的效果，甚至可能因为心神散乱而影响自身的修习。
+
+　　本站所分享的内容，并不一定代表什么权威理论，也不敢自称有什么高深见解。而是一个普通学习者在学习和实践过程中的真实记录，包括自己的经验、感悟、反思以及一些值得注意的问题。
+
+　　希望这些文字能够为后来学习者提供一点参考。
+
+　　如果你也正在学习祝由术，愿我们共同精进，在实践中验证，在实践中成长。
+
+　　纸上得来终觉浅，绝知此事要躬行。
+
+　　愿与诸位共勉。
+
+　　——兴行
